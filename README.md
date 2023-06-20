@@ -6,7 +6,7 @@
 
 El siguiente proyecto busca mostrar el panorama historico del desarrollo en ciencia y tecnologia de un pais. El objetivo es diseñar una serie de tableros que nos ayuden a comprender que parametros demuestran que un pais esta teniendo un desarrollo fuerte en este aspecto, o por el contrario un carencia. 
 
-El primer tablero ciertos indicadores que nos ayudaran a comprender la evolucion historica del desarrollo cientifico y tecnologico. Este tablero contara con visualizaciones para variables monetarias y de generacion de material cientifico ya que estos determinan si el pais esta generando su propia tecnologia (o no), y si esta esta siendo determinante en el panorama global (a partir de los ingresos que obtiene), o por el contrario hace uso de tecnologia procedente de otros paises
+El primer tablero muestra ciertos indicadores que nos ayudaran a visualizar la evolucion historica del desarrollo cientifico y tecnologico. Este tablero contara con visualizaciones para variables monetarias y de generacion de material cientifico ya que estos determinan si el pais esta generando su propia tecnologia (o no), y si esta esta siendo determinante en el panorama global (a partir de los ingresos que obtiene), o por el contrario hace uso de tecnologia procedente de otros paises
 
 El segundo tablero (en desarrollo), buscara hacer un constraste entre dos paises y mostrar sus falencias y/o fortalezas (POR DESARROLLAR)
 
@@ -23,8 +23,10 @@ El siguiente tablero fue diseñado con el fin de observar el contraste historico
     - 1.2: Filtro de Paises (Solo se puede elegir un pais a la vez)
     - 1.3: Filtro temporal: (Años desde 1990 - 2020)
 ![Image text](2.png)
-2. Mapa Coroplectico: Muestra el Pais sobre del cual se estan mostrando los datos historicos. (Por agregar: Color para diferenciar paises desarrollados y subdesarrollados).
+--------------------
 
+2. Mapa Coroplectico: Muestra el Pais sobre del cual se estan mostrando los datos historicos. (Por agregar: Color para diferenciar paises desarrollados y subdesarrollados).
+----------------
 3. Marcador (por definir)
 
 4. Evolucion del porcentaje de PBI designado por año para ciencia y tecnologia. ()
